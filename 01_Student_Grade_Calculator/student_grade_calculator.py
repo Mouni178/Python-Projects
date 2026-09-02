@@ -12,12 +12,12 @@ def calculate_grade(average):
   else:
     return "F"
 name=input("Enter the Student Name : ")
-maths=float(input("Enter Maths Marks : ")
-english=float(input("Enter English Marks :")
-Social=float(input("Enter Social MArks :")
+maths=float(input("Enter Maths Marks : "))
+english=float(input("Enter English Marks :"))
+social=float(input("Enter Social MArks :"))
 total=maths+english+social
 average=total//3
-grade=calculate_grage(average)
+grade=calculate_grade(average)
 print("Name:",name)
 print("Total Marks:",total)
 print("Average:", round(average,2))
