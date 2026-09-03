@@ -1,6 +1,6 @@
 import random
 print("Number Guessing Game")
-print("i have selected number from 1 to 100")
+print("I have selected number from 1 to 100")
 number=random.randint(1,100)
 attempts=0
 while True:
@@ -12,6 +12,6 @@ while True:
     print("Too High! Try Again")
   else:
     print("Correct")
-    print("You guessed the number in,"attempts",attempts")
+    print("You guessed the number in",attempts,"attempts")
     break
   
