@@ -1,8 +1,9 @@
 expenses=[]
+amounts=[]
 def add_expenses():
   description=input("Enter Expense name:")
-  amount=float(input("Enter amount:")
-  expenses.append(expense)
+  amount=float(input("Enter amount:"))
+  expenses.append(description)
   amounts.append(amount)
   print("Expense added Successfully")
 def view_expenses():
@@ -24,7 +25,7 @@ while True:
     print("4.Exit")
     choice = input("Enter your choice: ")
     if choice == "1":
-        add_expense()
+        add_expenses()
     elif choice == "2":
         view_expenses()
     elif choice == "3":
@@ -34,5 +35,3 @@ while True:
         break
     else:
         print("Invalid choice!")
-
-
