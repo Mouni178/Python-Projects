@@ -39,12 +39,12 @@ def return_book():
         print("This book was not borrowed.")
 while True:
     print("LIBRARY MANAGEMENT SYSTEM")
-    print("1. Add Book")
-    print("2. View Books")
-    print("3. Search Book")
-    print("4. Borrow Book")
-    print("5. Return Book")
-    print("6. Exit")
+    print("1.Add Book")
+    print("2.View Books")
+    print("3.Search Book")
+    print("4.Borrow Book")
+    print("5.Return Book")
+    print("6.Exit")
     choice = input("Enter your choice: ")
     if choice == "1":
         add_book()
