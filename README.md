@@ -29,4 +29,9 @@ A collection of Python projects covering programming fundamentals, problem-solvi
 - [x] Number Guessing Game
 - [x] Expense Tracker
 - [x] Library Management System
-## 
+## Technologies used
+- Python3
+- vs code
+- git
+- github
+  
