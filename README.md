@@ -34,4 +34,6 @@ A collection of Python projects covering programming fundamentals, problem-solvi
 - vs code
 - git
 - github
+## Author
+Potthalam Mounika GitHub: https://github.com/Mouni178 LinkedIn: https://www.linkedin.com/in/mounika-potthalam-30b69731b
   
