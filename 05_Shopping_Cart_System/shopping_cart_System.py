@@ -5,40 +5,27 @@ products = {
     "keyboard": 1500,
     "usb cable": 300
 }
-
 cart = []
-
-
 def view_products():
-    print("\n===== AVAILABLE PRODUCTS =====")
-
+    print("AVAILABLE PRODUCTS")
     for product, price in products.items():
         print(product, "₹", price)
-
-
 def add_to_cart():
     product = input("Enter product name: ").lower()
-
     if product in products:
         cart.append(product)
         print(product, "added to cart!")
     else:
         print("Product not found.")
-
-
 def view_cart():
     if len(cart) == 0:
         print("Your cart is empty.")
     else:
         print("\n===== YOUR CART =====")
-
         for product in cart:
             print(product, "₹", products[product])
-
-
 def remove_from_cart():
     product = input("Enter product name to remove: ").lower()
-
     if product in cart:
         cart.remove(product)
         print(product, "removed from cart!")
