@@ -8,7 +8,7 @@ loan_amount = float(input("Enter requested loan amount: "))
 
 monthly_savings = salary - expenses
 
-print("\n===== FINANCIAL DETAILS =====")
+print("FINANCIAL DETAILS")
 
 print("Name:", name)
 print("Monthly Salary: ", salary)
