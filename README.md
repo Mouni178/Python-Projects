@@ -8,7 +8,7 @@ A collection of Python projects covering programming fundamentals, problem-solvi
 | 2 | [Number Guessing Game](./02_Number_Guessing_Game) | Loops, Conditions, Random Module, Input |
 | 3 | [Expense Tracker](./03_Expense_Tracker) | Lists, Functions, Loops, Conditions |
 | 4 | [Library Management System](./04_Library_Management_System) | Lists, Functions, Loops, Conditions, String Operations |
-| 5 | [Simple Calculator](./05_simple_calculator) | Variables, Input, Conditionals, Functions |
+| 5 | 
 ---
 
 ##  Skills Practiced
