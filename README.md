@@ -9,6 +9,8 @@ A collection of Python projects covering programming fundamentals, problem-solvi
 | 3 | [Expense Tracker](./03_Expense_Tracker) | Lists, Functions, Loops, Conditions |
 | 4 | [Library Management System](./04_Library_Management_System) | Lists, Functions, Loops, Conditions, String Operations |
 | 5 | [Shopping Cart System](./05_Shopping_Cart_System) | Lists, Functions, Conditions, Loops |
+| 6 | [Password Generator](./06_Password_Generator) | Strings, Loops, Functions, Random Module |
+
 ---
 
 ##  Skills Practiced
