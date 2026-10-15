@@ -1,4 +1,5 @@
-# Python-Projects
+| 7 | [ATM Simulator](./07_ATM_Simulator) | Variables, Functions, Conditional Statements, Loops, Lists |
+| 8 | [To-Do List Manager](./08_To_Do_List_Manager) | Lists, Functions, Loops, Conditional Statements, List Operations |# Python-Projects
 A collection of Python projects covering programming fundamentals, problem-solving, data analysis, machine learning, and AI
 ##  Projects
 
@@ -10,6 +11,8 @@ A collection of Python projects covering programming fundamentals, problem-solvi
 | 4 | [Library Management System](./04_Library_Management_System) | Lists, Functions, Loops, Conditions, String Operations |
 | 5 | [Shopping Cart System](./05_Shopping_Cart_System) | Lists, Functions, Conditions, Loops |
 | 6 | [Password Generator](./06_Password_Generator) | Strings, Loops, Functions, Random Module |
+| 7 | [ATM Simulator](./07_ATM_Simulator) | Variables, Functions, Conditional Statements, Loops, Lists |
+| 8 | [To-Do List Manager](./08_To_Do_List_Manager) | Lists, Functions, Loops, Conditional Statements, List Operations |
 
 ---
 
