@@ -1,5 +1,4 @@
-| 7 | [ATM Simulator](./07_ATM_Simulator) | Variables, Functions, Conditional Statements, Loops, Lists |
-| 8 | [To-Do List Manager](./08_To_Do_List_Manager) | Lists, Functions, Loops, Conditional Statements, List Operations |# Python-Projects
+
 A collection of Python projects covering programming fundamentals, problem-solving, data analysis, machine learning, and AI
 ##  Projects
 
