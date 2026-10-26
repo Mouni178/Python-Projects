@@ -48,6 +48,10 @@ A collection of Python projects covering programming fundamentals, problem-solvi
 - [x] Library Management System
 - [x] Shopping Cart System
 - [x] Password Generator
+- [x] ATM Simulator
+- [x] TO-DO List Manager
+- [x] Invoice Generator
+- [x] Quiz Game
 ## Technologies used
 - Python3
 - vs code
