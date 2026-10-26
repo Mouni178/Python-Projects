@@ -12,6 +12,19 @@ A collection of Python projects covering programming fundamentals, problem-solvi
 | 6 | [Password Generator](./06_Password_Generator) | Strings, Loops, Functions, Random Module |
 | 7 | [ATM Simulator](./07_ATM_Simulator) | Variables, Functions, Conditional Statements, Loops, Lists |
 | 8 | [To-Do List Manager](./08_To_Do_List_Manager) | Lists, Functions, Loops, Conditional Statements, List Operations |
+| 9 | [Invoice Generator](./09_Invoice_Generator) | Lists, Functions, Loops, Arithmetic Operations, Discounts |
+| 10 | [Quiz Game](./10_Quiz_Game) | Lists, Loops, Conditional Statements, Score Calculation |
+| 11 | [Contact Book Manager](./11_Contact_Book_Manager) | Dictionaries, Functions, Loops, Searching, CRUD Operations |
+| 12 | [Temperature Converter](./12_Temperature_Converter) | Functions, Conditional Statements, Arithmetic Operations |
+| 13 | [Personal Banking System](./13_Personal_banking_system) | Variables, Functions, Lists, Loops, Conditional Statements |
+| 14 | [Student Management System](./14_Student_Management_System) | Lists, Functions, Loops, Searching, Data Management |
+| 15 | [Sales Data Analyser](./15_Sales_Data_Analyser) | Lists, Functions, Loops, Data Analysis, Calculations |
+| 16 | [Countdown Timer](./16_Countdown_timer) | Loops, Variables, Conditional Statements, Time Calculations |
+| 17 | [Salary Analyzer](./17_Salary_Analyzer) | Lists, Functions, Loops, Statistical Calculations |
+| 18 | [Product Price Analyzer](./18_Product_Price_Analyzer) | Lists, Functions, Loops, Searching, Price Analysis |
+| 19 | [Book Rating Analyzer](./19_Book_Rating_Analyzer) | Lists, Functions, Loops, Average and Rating Analysis |
+| 20 | [Loan Eligibility Checker](./20_Loan_Eligibility_Checker) | Variables, Conditional Statements, Logical Operators, Financial Calculations |
+
 
 ---
 
