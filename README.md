@@ -47,6 +47,7 @@ A collection of Python projects covering programming fundamentals, problem-solvi
 - [x] Expense Tracker
 - [x] Library Management System
 - [x] Shopping Cart System
+- [x] Password Generator
 ## Technologies used
 - Python3
 - vs code
