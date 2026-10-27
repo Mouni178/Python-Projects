@@ -28,8 +28,8 @@ A collection of Python projects covering programming fundamentals, problem-solvi
 | 23 | [Hotel Room Booking System](./23_Hotel_Room_Booking_System) | Lists, Functions, Loops, Conditions, Booking Management |
 | 24 | [Car Rental System](./24_Car_Rental_System) | Lists, Functions, Loops, Conditions, Rental Calculations |
 | 25 | [Hospital Appointment System](./25_Hospital_Appointment_System) | Lists, Functions, Loops, Searching, Appointment Management |
-| 26 | [Electricity Bill Calculator](./26_Electric-ity_Bill_Calculator) | Functions, Conditional Statements, Loops, Bill Calculations |
-| 27 | [Student Attendance Management System](./27_Student Attendance Management System) | Dictionaries, Functions, Loops, Attendance Calculations |
+| 26 | [Electricity Bill Calculator](./26_Electricity_Bill_Calculator) | Functions, Conditional Statements, Loops, Bill Calculations |
+| 27 | [Attendance Management System](./27_Student_Attendance_Management_System) | Dictionaries, Functions, Loops, Attendance Calculations |
 | 28 | [Personal Diary Application](./28_Personal_Dairy_Application) | File Handling, Functions, Loops, String Operations |
 | 29 | [Bank Account Management](./29_Bank_AccountManagement) | Variables, Functions, Lists, Loops, Financial Calculations |
 | 30 | [Inventory Management System](./30_Inventory_Management_System) | Lists, Functions, Loops, Searching, Inventory Calculations |
