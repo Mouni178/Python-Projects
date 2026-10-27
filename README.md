@@ -24,6 +24,27 @@ A collection of Python projects covering programming fundamentals, problem-solvi
 | 18 | [Product Price Analyzer](./18_Product_Price_Analyzer) | Lists, Functions, Loops, Searching, Price Analysis |
 | 19 | [Book Rating Analyzer](./19_Book_Rating_Analyzer) | Lists, Functions, Loops, Average and Rating Analysis |
 | 20 | [Loan Eligibility Checker](./20_Loan_Eligibility_Checker) | Variables, Conditional Statements, Logical Operators, Financial Calculations |
+| 21 | [Movie Ticket Booking System](./21_Movie_Ticket_Booking_System) | Lists, Functions, Loops, Conditional Statements, Bill Calculations |
+| 22 | [ATM Transaction Analyzer](./22_ATM_Transaction_Analyzer) | Variables, Lists, Functions, Loops, Transaction Analysis |
+| 23 | [Hotel Room Booking System](./23_Hotel_Room_Booking_System) | Lists, Functions, Loops, Conditions, Booking Management |
+| 24 | [Car Rental System](./24_Car_Rental_System) | Lists, Functions, Loops, Conditions, Rental Calculations |
+| 25 | [Hospital Appointment System](./25_Hospital_Appointment_System) | Lists, Functions, Loops, Searching, Appointment Management |
+| 26 | [Electricity Bill Calculator](./26_Electricity_Bill_Calculator) | Functions, Conditional Statements, Loops, Bill Calculations |
+| 27 | [Student Attendance Management System](./27_Student Attendance Management System) | Dictionaries, Functions, Loops, Attendance Calculations |
+| 28 | [Personal Diary Application](./28_Personal_Dairy_Application) | File Handling, Functions, Loops, String Operations |
+| 29 | [Bank Account Management](./29_Bank_Account_Management) | Variables, Functions, Lists, Loops, Financial Calculations |
+| 30 | [Inventory Management System](./30_Inventory_Management_System) | Lists, Functions, Loops, Searching, Inventory Calculations |
+| 31 | [Personal Budget Planner](./31_Personal_Budget_Planner) | Lists, Functions, Loops, Budget Calculations |
+| 32 | [Text Analyzer](./32_Text_Analyzer) | Strings, String Methods, Functions, Loops, Text Analysis |
+| 33 | [Shopping Discount Calculator](./33_Shopping_Discount) | Lists, Functions, Conditions, Percentage Calculations |
+| 34 | [Number Statistics Analyzer](./34_Number_Statistic_Analyzer) | Lists, Loops, Functions, Statistical Calculations |
+| 35 | [Rock Paper Scissors Game](./35_Game) | Lists, Loops, Conditions, Game Logic, Score Tracking |
+| 36 | [Password Strength Checker](./36_Password_Strength_Checker) | Strings, Functions, Boolean Variables, Conditions |
+| 37 | [Word Frequency Analyzer](./37_Word_Frequency_Analyzer) | Strings, Lists, Functions, Loops, Text Analysis |
+| 38 | [Exam Result Management System](./38_Exam_Result_Management_System) | Lists, Functions, Loops, Validation, Result Analysis |
+| 39 | [Restaurant Billing System](./39_Restaurant_Billing_System) | Lists, Functions, Loops, Input Validation, Bill Calculations |
+| 40 | [Employee Payroll Management System](./40_Employee_Payroll_Management_System) | Lists, Functions, Loops, Salary Calculations, Searching |
+
 
 
 
