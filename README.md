@@ -74,6 +74,16 @@ A collection of Python projects covering programming fundamentals, problem-solvi
 - [x] TO-DO List Manager
 - [x] Invoice Generator
 - [x] Quiz Game
+- [x] Contact Book Manager
+- [x] Temperature Convertor
+- [x] Personal Banking System
+- [x] Student Management System
+- [x] Sales Data Analyser
+- [x] Countdown Timer
+- [x] Salary Analyser
+- [x] Product Price Analyzer
+- [x] Book Rating Analyzer
+- [x] Loan Eligibility Checker
 ## Technologies used
 - Python3
 - vs code
