@@ -24,6 +24,26 @@ A collection of Python projects covering programming fundamentals, problem-solvi
 | 18 | [Product Price Analyzer](./18_Product_Price_Analyzer) | Lists, Functions, Loops, Searching, Price Analysis |
 | 19 | [Book Rating Analyzer](./19_Book_Rating_Analyzer) | Lists, Functions, Loops, Average and Rating Analysis |
 | 20 | [Loan Eligibility Checker](./20_Loan_Eligibility_Checker) | Variables, Conditional Statements, Logical Operators, Financial Calculations |
+| 21 | Movie Ticket Booking System | Lists, Functions, Loops, Conditions, Bill Calculations |
+| 22 | ATM Transaction Analyzer | Variables, Lists, Functions, Loops, Transaction Analysis |
+| 23 | Hotel Room Booking System | Lists, Functions, Loops, Conditions, Booking Management |
+| 24 | Car Rental System | Lists, Functions, Loops, Conditions, Rental Calculations |
+| 25 | Hospital Appointment System | Lists, Functions, Loops, Searching, Appointment Management |
+| 26 | Electricity Bill Calculator | Functions, Conditions, Loops, Bill Calculations |
+| 27 | [Student Attendance Management System](./27_Student Attendance Management System) | Dictionaries, Functions, Loops, Attendance Calculations |
+| 28 | Personal Diary Application | File Handling, Functions, Datetime, Exception Handling |
+| 29 | Bank Account Management | Variables, Functions, Lists, Loops, Transaction Management |
+| 30 | Inventory Management System | Lists, Functions, Loops, Conditions, Inventory Calculations |
+| 31 | Personal Budget Planner | Lists, Functions, Budget Calculations |
+| 32 | Text Analyzer | Strings, String Methods, Loops, Text Analysis |
+| 33 | Shopping Discount Calculator | Lists, Conditions, Percentage Calculations |
+| 34 | Number Statistics Analyzer | Lists, Loops, Number Analysis |
+| 35 | Rock Paper Scissors Game | Game Logic, Conditions, Loops, Score Tracking |
+| 36 | Password Strength Checker | Strings, Functions, Boolean Variables, Conditions |
+| 37 | Word Frequency Analyzer | Strings, Lists, Functions, Loops, Text Analysis |
+| 38 | Exam Result Management System | Lists, Functions, Loops, Validation, Data Analysis |
+| 39 | Restaurant Billing System | Lists, Functions, Loops, Input Validation, Bill Calculations |
+| 40 | [Employee Payroll Management System](./40_Employee _Payroll_Management_System) | Lists, Functions, Loops, Salary Calculations, Searching |
 
 
 ---
