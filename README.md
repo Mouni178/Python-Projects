@@ -92,7 +92,7 @@ A collection of Python projects covering programming fundamentals, problem-solvi
 - [x] Attendance Management System
 - [x] Personal Diary Application
 - [x] Bank Account Management
-- [x] Inventory Management System
+- [x] Inventory Management System 
 ## Technologies used
 - Python3
 - vs code
