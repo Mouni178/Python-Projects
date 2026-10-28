@@ -83,6 +83,16 @@ A collection of Python projects covering programming fundamentals, problem-solvi
 - [x] Product Price Analyzer
 - [x] Book Rating Analyzer
 - [x] Loan Eligibility Checker
+- [X] Movie Ticket Booking System
+- [X] ATM Transaction Analyzer
+- [ ] Hotel Room Booking System
+- [ ] Car Rental System
+- [ ] Hospital Appointment System
+- [ ] Electricity Bill Calculator
+- [ ] Attendance Management System
+- [ ] Personal Diary Application
+- [ ] Bank Account Management
+- [ ] Inventory Management System
 ## Technologies used
 - Python3
 - vs code
