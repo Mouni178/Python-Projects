@@ -85,14 +85,14 @@ A collection of Python projects covering programming fundamentals, problem-solvi
 - [x] Loan Eligibility Checker
 - [X] Movie Ticket Booking System
 - [X] ATM Transaction Analyzer
-- [ ] Hotel Room Booking System
-- [ ] Car Rental System
-- [ ] Hospital Appointment System
-- [ ] Electricity Bill Calculator
-- [ ] Attendance Management System
-- [ ] Personal Diary Application
-- [ ] Bank Account Management
-- [ ] Inventory Management System
+- [x] Hotel Room Booking System
+- [x] Car Rental System
+- [x] Hospital Appointment System
+- [x] Electricity Bill Calculator
+- [x] Attendance Management System
+- [x] Personal Diary Application
+- [x] Bank Account Management
+- [x] Inventory Management System
 ## Technologies used
 - Python3
 - vs code
